@@ -1,0 +1,2 @@
+class ProjectFeature < ApplicationRecord
+end

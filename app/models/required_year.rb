@@ -1,0 +1,2 @@
+class RequiredYear < ApplicationRecord
+end

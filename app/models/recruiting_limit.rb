@@ -1,0 +1,2 @@
+class RecruitingLimit < ApplicationRecord
+end

@@ -1,0 +1,2 @@
+class HumanStatus < ApplicationRecord
+end

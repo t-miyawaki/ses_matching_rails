@@ -1,0 +1,2 @@
+class CommercialDistribution < ApplicationRecord
+end

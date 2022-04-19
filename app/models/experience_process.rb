@@ -1,0 +1,2 @@
+class ExperienceProcess < ApplicationRecord
+end

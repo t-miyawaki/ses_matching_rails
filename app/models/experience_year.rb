@@ -1,0 +1,2 @@
+class ExperienceYear < ApplicationRecord
+end

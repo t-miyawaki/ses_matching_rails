@@ -1,0 +1,2 @@
+class WorkCategory < ApplicationRecord
+end
